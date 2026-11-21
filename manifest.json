@@ -1,0 +1,9 @@
+{
+  "name": "Enci 3D Space Fighter",
+  "short_name": "Space Fighter",
+  "start_url": "/",
+  "display": "fullscreen",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "landscape"
+}
